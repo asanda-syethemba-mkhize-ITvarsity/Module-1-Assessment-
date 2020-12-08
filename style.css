@@ -2,6 +2,14 @@
     width:100%;
 }
 
+h1{
+    font-family: impact, fantasyn
+    text-align: center;
+    font-size: 30px
+    color: darkorange;
+    Font-style:italic;
+} 
+
 h2{
     font-family: impact, fantasy;
     text-align: center;
